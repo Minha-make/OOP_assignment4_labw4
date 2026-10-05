@@ -1,0 +1,14 @@
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\bin\Debug\net8.0\PayrollLab.exe
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\bin\Debug\net8.0\PayrollLab.deps.json
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\bin\Debug\net8.0\PayrollLab.runtimeconfig.json
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\bin\Debug\net8.0\PayrollLab.dll
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\bin\Debug\net8.0\PayrollLab.pdb
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.AssemblyInfoInputs.cache
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.AssemblyInfo.cs
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.dll
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\refint\PayrollLab.dll
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.pdb
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\PayrollLab.genruntimeconfig.cache
+C:\Users\Hi\Desktop\Documents\OOP\assignment4\PayrollLab\obj\Debug\net8.0\ref\PayrollLab.dll
